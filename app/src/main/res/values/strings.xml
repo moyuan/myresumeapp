@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">AwesomeResume</string>
+
+    <string name="edit_basic_info">Edit basic info</string>
+
+    <string name="section_education">Education</string>
+
+    <string name="add_education">Add education</string>
+    <string name="edit_education">Edit education</string>
+
+    <string name="user_picture">User picture</string>
+    <string name="education_edit_school_hint">School</string>
+    <string name="education_edit_courses_hint">Courses</string>
+    <string name="education_edit_end_date_hint">End Date</string>
+    <string name="education_edit_major_hint">Major</string>
+    <string name="education_edit_start_date_hint">Start Date</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_save">Save</string>
+    <string name="edit_experience">Edit experience</string>
+    <string name="section_experience">Experience</string>
+    <string name="add_experience">Add experience</string>
+    <string name="section_projects">Projects</string>
+    <string name="add_projects">Add project</string>
+    <string name="edit_project">Edit project</string>
+    <string name="experience_edit_company_hint">Company</string>
+    <string name="experience_edit_title_hint">Title</string>
+    <string name="start_date">Start date</string>
+    <string name="end_date">End date</string>
+    <string name="experience_edit_what_did_you_do_hint">What did you do</string>
+    <string name="project_edit_name_hint">Project name</string>
+    <string name="project_edit_details_hint">Details</string>
+    <string name="education_school_and_date">%1$s (%2$s ~ %3$s)</string>
+    <string name="experience_comany_and_date">%1$s (%2$s ~ %3$s)</string>
+    <string name="project_name_and_date">%1$s (%2$s ~ %3$s)</string>
+    <string name="choose_user_picture">Choose user picture</string>
+    <string name="basic_info_edit_name_hint">Your name</string>
+    <string name="basic_info_edit_email_hint">Your email</string>
+</resources>
